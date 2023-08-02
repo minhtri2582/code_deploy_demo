@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        
+    </IfModule>
+
+    RewriteEngine On
+    RewriteRule ^about$ mycv/index.html [L]
+</IfModule>

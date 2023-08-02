@@ -1,0 +1,16 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome-sass": "^4.7.0",
+    "node-sass": "^6.0.0"
+  }
+}
